@@ -1,6 +1,15 @@
-# Basic-Portfolio
-Homework 02, Responsive Portfolio
+# Development Portfolio
+Homework 08, Professional Materials
 
-Created a basic portfolio using with three pages using Bootstrap and my own CSS. It is responsive, although not as responsive on smaller screens as I would like for it to be. 
+## Description
+Updated Basic Portfolio (Homework 02) to include a longer bio, links to portfolio projects, a pdf of my resume, and contact information. Updated styling a bit as well.
 
-I worked through a bunch of stuck points to get it to where the project is now and look forward to some feedback on how to make it do the things it still doesn't do.
+## TECHNOLOGIES
+Built in Visual Studio using HTML, Bootstrap, and CSS.
+
+## LINK TO DEPLOYED WEBPAGE
+[Click here](https://alyssahellrung.github.io/Development-Portfolio/)
+
+## SCREEN SHOT
+![image]()
+
