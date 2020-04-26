@@ -109,3 +109,17 @@ footer {
   height: 50px;
   border-top: 3px solid #5B2A8C;
 }
+
+@media screen and (max-width: 576px) {
+
+  .container {
+    width: 100%;
+    padding: 20px;
+  }
+
+  .main-content,
+  .titlebox {
+    width: 100%;
+  }
+
+}
