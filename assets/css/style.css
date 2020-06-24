@@ -79,7 +79,10 @@ h1 {
 }
 
 .projects {
-  margin: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #000000;
+  font-weight: bold;
 }
 
 .main-content {
