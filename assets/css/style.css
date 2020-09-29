@@ -94,6 +94,14 @@ h1 {
   width: 75%;
 }
 
+.dark {
+  font-weight: 600;
+}
+
+.mellow{
+  font-weight: lighter;
+}
+
 .btn-primary {
   background-color: #762EA6;
   color: #ffffff;
