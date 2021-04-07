@@ -87,7 +87,6 @@ h1 {
 
 .main-content {
   background-color: #ffffff;
-  /* margin: 20px; */
 }
 
 .form-group {
@@ -114,6 +113,7 @@ h1 {
 
 footer {
   background-color: #A395B4;
+  color: #ffffff;
   text-align: center;
   width: 100%;
   padding: 15px;
